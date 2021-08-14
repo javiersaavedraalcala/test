@@ -1,1 +1,2 @@
 Esto es un txt de ejemplo agregando nuevas lineas al archivo .txt.
+En camara parece alto pero en realidad no es tan alto
